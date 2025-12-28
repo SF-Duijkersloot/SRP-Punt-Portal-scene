@@ -2,6 +2,7 @@
 
 <img width="1058" height="670" alt="image" src="https://github.com/user-attachments/assets/436ac9f2-53a6-43c4-a6a3-da386b7e756d" />
 
+### Bekijk live project: [Portal scene](https://portal-scene-three-nu.vercel.app/)
 
 Dit project is gemaakt in het kader van een **SRP** voor CMD.  
 Het doel van dit project was om mij te verdiepen in **Three.js en WebGL** door het volgen van de *Three.js Journey* cursus en het opleveren van een eigen eindproject: een **Portal Scene**.
